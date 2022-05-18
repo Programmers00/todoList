@@ -1,2 +1,2 @@
 # todoList
-todoList by Vue3, Vitejs2
+todoList by Vue3 + Vitejs
